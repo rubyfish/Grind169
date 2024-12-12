@@ -19,12 +19,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rubyfish/Grind169/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rubyfish/Grind169/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rubyfish/Grind169/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
