@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rubyfish/Grind169/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/rubyfish/Grind169/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rubyfish/Grind169/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rubyfish/Grind169/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rubyfish/Grind169/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rubyfish/Grind169/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rubyfish/Grind169/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rubyfish/Grind169/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
