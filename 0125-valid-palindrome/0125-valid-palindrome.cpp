@@ -1,23 +1,29 @@
 class Solution {
 public:
-    bool isPalindrome(string s) {
-        std::string new_s;
-        for(char ch:s){
-            //check if ch is upper case letter
-            if (ch <= 'Z' && ch >= 'A'){
-                new_s += (ch-'A'+'a');
-            }
-            //check if ch is lower case letter or number
-            else if ((ch <= 'z' && ch >= 'a')||(ch <= '9' && ch >= '0')){
-                new_s += ch;
-            }
+    char alphabetToLower(char ch){
+        if (ch <= 'Z' && ch >= 'A'){
+            return (ch-'A'+'a');
         }
 
+        return ch;
+    }
+    bool isAlphaberOrNum(char ch){
+        if ((ch <= 'z' && ch >= 'a')||
+            (ch <= '9' && ch >= '0')||
+            (ch <= 'Z' && ch >= 'A')){
+            return true;
+        }
+        return false;
+    }
+    bool isPalindrome(string s) {
         int left = 0;
-        int right = new_s.size()-1;
+        int right = s.size()-1;
 
         while(left<right){
-            if (new_s[left]!=new_s[right]){
+            while (left<right && !isAlphaberOrNum(s[left])) left++;
+            while (left<right && !isAlphaberOrNum(s[right])) right--;
+
+            if (alphabetToLower(s[left])!=alphabetToLower(s[right])){
                 return false;
             }
             left++;
