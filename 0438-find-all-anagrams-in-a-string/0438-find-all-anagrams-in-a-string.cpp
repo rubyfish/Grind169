@@ -1,15 +1,5 @@
 class Solution {
 public:
-    static bool compareMap(std::unordered_map<char, int> map_s,
-                           std::unordered_map<char, int> map_p){
-        for (auto it:map_p){
-            if (!map_s.count(it.first)||
-                map_s[it.first]!=it.second){
-                return false;
-            }
-        }
-        return true;
-    }
     vector<int> findAnagrams(string s, string p) {
         int size_p = p.size();
         int size_s = s.size();
