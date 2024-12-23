@@ -34,8 +34,15 @@ public:
                 }
             }
             else{
-                map_s[s[head-1]]--;
-                map_s[s[head+size_p-1]]++;
+                char c_remove = s[head-1];
+                char c_add = s[head+size_p-1];
+                map_s[c_remove]--;
+                map_s[c_add]++;
+
+                if (!map_p.count(c_add)){
+                    head++;
+                    continue;
+                }
             }
             if (compareMap(map_s, map_p)){
                 res.push_back(head);
