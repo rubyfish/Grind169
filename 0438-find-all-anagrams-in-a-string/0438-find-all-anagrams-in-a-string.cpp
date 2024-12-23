@@ -36,15 +36,20 @@ public:
             else{
                 char c_remove = s[head-1];
                 char c_add = s[head+size_p-1];
-                map_s[c_remove]--;
-                map_s[c_add]++;
 
+                map_s[c_remove]--;
+                if (map_s[c_remove]==0){
+                    map_s.erase(c_remove);
+                }
+
+                map_s[c_add]++;
                 if (!map_p.count(c_add)){
                     head++;
                     continue;
                 }
             }
-            if (compareMap(map_s, map_p)){
+
+            if (map_s == map_p){
                 res.push_back(head);
             }
 
