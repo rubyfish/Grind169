@@ -1,43 +1,39 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int s_len = s.length();
-        int t_len = t.length();
-
-        if (s_len < t_len)
+        // If s is short than t, it can't contain all character in t
+        if (s.length() < t.length())
             return std::string();
-        
-        int left = 0;
-        int right = 0;
+
+        int l = 0;
+        int r = 0;
         int count = 0;
-        int res_start_index = 0;
         int res_len = -1;
-        std::unordered_map<char, int> t_map;
+        int res_start_index = 0;
         std::unordered_map<char, int> s_map;
+        std::unordered_map<char, int> t_map;
 
         for(char ch:t){
             t_map[ch]++;
         }
 
-        while(right < s_len){
-            s_map[s[right]]++;
-            if (t_map.count(s[right]) && t_map[s[right]] >= s_map[s[right]]){
+        while(r<s.length()){
+            s_map[s[r]]++;
+            if (t_map.contains(s[r]) && t_map[s[r]] >= s_map[s[r]])
                 count++;
-            }
-
-            while(count == t_len){
-                if (res_len == -1 || right-left+1 < res_len){
-                    res_start_index = left;
-                    res_len = right-left+1;
+            
+            while(count == t.length()){
+                if (res_len == -1 || res_len > r-l+1){
+                    res_len = r-l+1;
+                    res_start_index = l;
                 }
-                s_map[s[left]]--;
-                if (t_map.count(s[left]) && t_map[s[left]] > s_map[s[left]]){
+                s_map[s[l]]--;
+                if (t_map.contains(s[l]) && t_map[s[l]] > s_map[s[l]])
                     count--;
-                }
-                left++;
+                l++;
             }
-            right++;
+            r++;
         }
-        return res_len == -1?std::string():s.substr(res_start_index, res_len);
+        return res_len==-1?std::string():s.substr(res_start_index, res_len);
     }
 };
