@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rubyfish/Grind169/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/rubyfish/Grind169/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rubyfish/Grind169/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rubyfish/Grind169/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rubyfish/Grind169/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
