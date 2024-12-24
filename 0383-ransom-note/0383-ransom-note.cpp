@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
+        if (ransomNote.size() > magazine.size())
+            return false;
+        
         std::unordered_map<char, int> map;
         for(char ch:magazine){
             map[ch]++;
