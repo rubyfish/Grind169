@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rubyfish/Grind169/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/rubyfish/Grind169/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rubyfish/Grind169/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/rubyfish/Grind169/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rubyfish/Grind169/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/rubyfish/Grind169/tree/master/0739-daily-temperatures) |
 ## Two Pointers
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rubyfish/Grind169/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -98,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
