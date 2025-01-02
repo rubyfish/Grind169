@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rubyfish/Grind169/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rubyfish/Grind169/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/rubyfish/Grind169/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/rubyfish/Grind169/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rubyfish/Grind169/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rubyfish/Grind169/tree/master/0076-minimum-window-substring) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rubyfish/Grind169/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rubyfish/Grind169/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/rubyfish/Grind169/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/rubyfish/Grind169/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rubyfish/Grind169/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rubyfish/Grind169/tree/master/0053-maximum-subarray) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rubyfish/Grind169/tree/master/0380-insert-delete-getrandom-o1) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rubyfish/Grind169/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
