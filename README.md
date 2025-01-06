@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rubyfish/Grind169/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/rubyfish/Grind169/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
