@@ -1,20 +1,20 @@
 class Solution {
 public:
-    static bool compare(vector<int> a, vector<int>b){
-        return a[0]<b[0];
-    }
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> results;
+        std::sort(intervals.begin(), intervals.end());
 
-        std::sort(intervals.begin(), intervals.end(), compare);
-
-        for (vector<int> interval : intervals){
-            if (results.empty()||results.back()[1] < interval[0]){
+        for (auto interval : intervals){
+            if (results.empty()){
                 results.push_back(interval);
+                continue;
             }
-            else{
-                results.back()[1] = max(results.back()[1], interval[1]);
+
+            if (interval[0] <= results.back()[1]){
+                results.back()[1] = std::max(interval[1], results.back()[1]);
             }
+            else
+                results.push_back(interval);
         }
 
         return results;
