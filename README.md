@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rubyfish/Grind169/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rubyfish/Grind169/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rubyfish/Grind169/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rubyfish/Grind169/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rubyfish/Grind169/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rubyfish/Grind169/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/rubyfish/Grind169/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rubyfish/Grind169/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rubyfish/Grind169/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rubyfish/Grind169/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rubyfish/Grind169/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rubyfish/Grind169/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/rubyfish/Grind169/tree/master/0733-flood-fill) |
@@ -197,5 +200,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rubyfish/Grind169/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rubyfish/Grind169/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rubyfish/Grind169/tree/master/0733-flood-fill) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
