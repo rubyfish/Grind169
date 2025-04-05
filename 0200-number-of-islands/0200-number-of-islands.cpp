@@ -1,26 +1,32 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>& grid, int m, int n, char target, char replace) {
-        if (m < 0 || n < 0 || m >= grid.size() || n >= grid[0].size())
+    int m = 0;
+    int n = 0;
+    const char land = '1';
+    const char water = '0';
+    void DFS(vector<vector<char>>& grid, int i, int j){
+        if (i < 0 || i >= this->m || j < 0 || j >= this->n)
             return;
-        if (grid[m][n] != target)
+        if (grid[i][j] != this->land)
             return;
         
-        grid[m][n] = replace;
-        dfs(grid, m - 1, n, target, replace);
-        dfs(grid, m + 1, n, target, replace);
-        dfs(grid, m, n - 1, target, replace);
-        dfs(grid, m, n + 1, target, replace);
+        grid[i][j] = this->water;
+        DFS(grid, i + 1, j);
+        DFS(grid, i - 1, j);
+        DFS(grid, i, j + 1);
+        DFS(grid, i, j - 1);
     }
 
     int numIslands(vector<vector<char>>& grid) {
+        this->m = grid.size();
+        this->n = grid[0].size();
         int count = 0;
 
-        for (int i = 0; i < grid.size(); i++){
-            for (int j = 0; j < grid[0].size(); j++){
-                if (grid[i][j] == '1'){
+        for (int i = 0; i < this->m; i++){
+            for (int j = 0; j < this->n; j++){
+                if (grid[i][j] == this->land){
                     count++;
-                    dfs(grid, i, j, '1', '0');
+                    DFS(grid, i, j);
                 }
             }
         }
