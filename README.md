@@ -239,9 +239,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/rubyfish/Grind169/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rubyfish/Grind169/tree/master/0210-course-schedule-ii) |
+| [1101-parallel-courses](https://github.com/rubyfish/Grind169/tree/master/1101-parallel-courses) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rubyfish/Grind169/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rubyfish/Grind169/tree/master/0210-course-schedule-ii) |
+| [1101-parallel-courses](https://github.com/rubyfish/Grind169/tree/master/1101-parallel-courses) |
 <!---LeetCode Topics End-->
