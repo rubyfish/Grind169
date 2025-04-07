@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/rubyfish/Grind169/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rubyfish/Grind169/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rubyfish/Grind169/tree/master/0739-daily-temperatures) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Stack
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rubyfish/Grind169/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Trie
 |  |
 | ------- |
