@@ -1,7 +1,9 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        //count characters for each string
+        //count the number of characters for each string
+        //combine a key to each string
+        //check key exist in mappings or not
         std::vector<std::vector<std::string>> results;
         std::unordered_map<std::string, int> mappings;
         int index = 0;
