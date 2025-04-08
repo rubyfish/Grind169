@@ -1,25 +1,28 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        std::unordered_map<std::string, int> map;
+        //count characters for each string
         std::vector<std::vector<std::string>> results;
-        int count = 0;
-        for(std::string s:strs){
-            std::string ori_s = s;
-            std::sort(s.begin(), s.end());
-            //If map contain sort string
-            //Add original string to mapping index
-            if(map.count(s)){
-                results[map[s]].push_back(ori_s);
+        std::unordered_map<std::string, int> mappings;
+        int index = 0;
+
+        for (std::string str:strs){
+            std::unordered_map<char, int> map_count_ch;
+            for(char ch:str) map_count_ch[ch]++;
+            std::string key = std::string();
+            for (int i = 0; i < 26; i++){
+                char ch = 'a' + i;
+                key += ch + std::to_string(map_count_ch[ch]);
             }
-            //If map doesn't contain sort string
-            //Add original string to the end of results and add mapping index
-            else{
-                map[s] = count;
-                count++;
-                results.push_back({ori_s});
+
+            if (!mappings.count(key)){
+                results.push_back(std::vector<std::string>());
+                mappings[key] = index;
+                index++;
             }
+            results[mappings[key]].push_back(str);
         }
+
         return results;
     }
 };
