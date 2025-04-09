@@ -11,15 +11,21 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        int low = std::min(p->val, q->val);
-        int high = std::max(p->val, q->val);
+        int q_val = q->val;
+        int p_val = p->val;
+        TreeNode* node = root;
+        while(node){
+            if (node->val < p_val && node->val < q_val){
+                node = node->right;
+            }
+            else if (node->val > p_val && node->val > q_val){
+                node = node->left;
+            }
+            else{
+                return node;
+            }
+        }
 
-        if (root->val >= low && root->val<=high){
-            return root;
-        }
-        else if (root->val > high){
-            return lowestCommonAncestor(root->left, p, q);
-        }
-        return lowestCommonAncestor(root->right, p, q);
+        return NULL;
     }
 };
