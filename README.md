@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rubyfish/Grind169/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rubyfish/Grind169/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rubyfish/Grind169/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rubyfish/Grind169/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rubyfish/Grind169/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rubyfish/Grind169/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rubyfish/Grind169/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/rubyfish/Grind169/tree/master/0792-binary-search) |
