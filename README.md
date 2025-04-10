@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rubyfish/Grind169/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rubyfish/Grind169/tree/master/0739-daily-temperatures) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/rubyfish/Grind169/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rubyfish/Grind169/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/rubyfish/Grind169/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
