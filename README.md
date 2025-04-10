@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rubyfish/Grind169/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rubyfish/Grind169/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/rubyfish/Grind169/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rubyfish/Grind169/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rubyfish/Grind169/tree/master/0238-product-of-array-except-self) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rubyfish/Grind169/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/rubyfish/Grind169/tree/master/0792-binary-search) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/rubyfish/Grind169/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
