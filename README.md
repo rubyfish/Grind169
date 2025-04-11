@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rubyfish/Grind169/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rubyfish/Grind169/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rubyfish/Grind169/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rubyfish/Grind169/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rubyfish/Grind169/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rubyfish/Grind169/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rubyfish/Grind169/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/rubyfish/Grind169/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/rubyfish/Grind169/tree/master/0792-binary-search) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rubyfish/Grind169/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/rubyfish/Grind169/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rubyfish/Grind169/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rubyfish/Grind169/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rubyfish/Grind169/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rubyfish/Grind169/tree/master/0733-flood-fill) |
