@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rubyfish/Grind169/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rubyfish/Grind169/tree/master/0380-insert-delete-getrandom-o1) |
+| [2998-count-symmetric-integers](https://github.com/rubyfish/Grind169/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rubyfish/Grind169/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rubyfish/Grind169/tree/master/0210-course-schedule-ii) |
 | [1101-parallel-courses](https://github.com/rubyfish/Grind169/tree/master/1101-parallel-courses) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/rubyfish/Grind169/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
