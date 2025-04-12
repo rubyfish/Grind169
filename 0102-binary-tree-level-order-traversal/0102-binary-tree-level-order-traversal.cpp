@@ -11,19 +11,31 @@
  */
 class Solution {
 public:
-    void bfs(TreeNode* root, vector<vector<int>>& results, int level) {
-        if (root == nullptr)
-            return;
-        if (results.size() == level)
-            results.push_back(vector<int>());
-        results[level].push_back(root->val);
-        
-        bfs(root->left, results, level+1);
-        bfs(root->right, results, level+1);
-    }
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> results;
-        bfs(root, results, 0);
+
+        if (!root)
+            return results;
+
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while (!q.empty()){
+            int q_size = q.size();
+            vector<int> tmp;
+            while(q_size > 0){
+                TreeNode* node = q.front();
+                q.pop();
+
+                tmp.push_back(node -> val);
+                if (node -> left) q.push(node -> left);
+                if (node -> right) q.push(node -> right);
+
+                q_size--;
+            }
+
+            results.push_back(tmp);
+        }
 
         return results;
     }
