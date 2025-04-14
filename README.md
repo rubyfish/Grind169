@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rubyfish/Grind169/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rubyfish/Grind169/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rubyfish/Grind169/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/rubyfish/Grind169/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rubyfish/Grind169/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/rubyfish/Grind169/tree/master/0322-coin-change) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rubyfish/Grind169/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/rubyfish/Grind169/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
