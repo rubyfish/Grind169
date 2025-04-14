@@ -11,16 +11,17 @@
  */
 class Solution {
 public:
-    bool checkNode(TreeNode* node, TreeNode* min_node, TreeNode* max_node){
-        if (!node)
+    bool checkBound(TreeNode* node, TreeNode* low, TreeNode* high){
+        if (node == nullptr)
             return true;
-        if ((min_node && node->val <= min_node->val) || 
-            (max_node && node->val >= max_node->val))
+        if (low != nullptr && node -> val <= low -> val)
             return false;
-        return checkNode(node->left, min_node, node) &&
-               checkNode(node->right, node, max_node);
+        if (high != nullptr && node -> val >= high -> val)
+            return false;
+        
+        return checkBound(node -> left, low, node) && checkBound(node -> right, node, high);
     }
     bool isValidBST(TreeNode* root) {
-        return checkNode(root, nullptr, nullptr);
+        return checkBound(root, nullptr, nullptr);
     }
 };
