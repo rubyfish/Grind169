@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/rubyfish/Grind169/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rubyfish/Grind169/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sliding Window
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rubyfish/Grind169/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rubyfish/Grind169/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/rubyfish/Grind169/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
