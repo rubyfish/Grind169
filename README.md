@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rubyfish/Grind169/tree/master/0792-binary-search) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/rubyfish/Grind169/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1165-meeting-scheduler](https://github.com/rubyfish/Grind169/tree/master/1165-meeting-scheduler) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rubyfish/Grind169/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rubyfish/Grind169/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rubyfish/Grind169/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rubyfish/Grind169/tree/master/0283-move-zeroes) |
+| [1165-meeting-scheduler](https://github.com/rubyfish/Grind169/tree/master/1165-meeting-scheduler) |
 | [1894-merge-strings-alternately](https://github.com/rubyfish/Grind169/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1165-meeting-scheduler](https://github.com/rubyfish/Grind169/tree/master/1165-meeting-scheduler) |
 ## Stack
 |  |
 | ------- |
