@@ -1,34 +1,33 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> indegree(numCourses, 0);
-        vector<vector<int>> adj(numCourses);
+        vector<int> indegree(numCourses);
+        vector<vector<int>> relations(numCourses);
         vector<int> order;
         queue<int> q;
 
-        for (vector<int> prereq:prerequisites){
-            adj[prereq[0]].push_back(prereq[1]);
-            indegree[prereq[1]]++;
+        for (vector<int> prerequisite:prerequisites){
+            relations[prerequisite[1]].push_back(prerequisite[0]);
+            indegree[prerequisite[0]]++;
         }
 
         for (int i = 0; i < numCourses; i++){
-            if (indegree[i] == 0){
+            if (indegree[i] == 0)
                 q.push(i);
-            }
         }
 
-        while(!q.empty()){
-            int course = q.front();
-            order.push_back(course);
+        while (!q.empty()){
+            int cur_course = q.front();
             q.pop();
+            order.push_back(cur_course);
 
-            for (int neighbor : adj[course]){
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0)
-                    q.push(neighbor);
+            for (int course:relations[cur_course]){
+                indegree[course]--;
+                if (indegree[course] == 0)
+                    q.push(course);
             }
         }
 
-        return order.size() == numCourses;
+        return order.size() == numCourses ? true:false;
     }
 };
