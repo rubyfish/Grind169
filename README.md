@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rubyfish/Grind169/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rubyfish/Grind169/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rubyfish/Grind169/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rubyfish/Grind169/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rubyfish/Grind169/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rubyfish/Grind169/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rubyfish/Grind169/tree/master/0125-valid-palindrome) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rubyfish/Grind169/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/rubyfish/Grind169/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rubyfish/Grind169/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rubyfish/Grind169/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rubyfish/Grind169/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rubyfish/Grind169/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/rubyfish/Grind169/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rubyfish/Grind169/tree/master/0078-subsets) |
