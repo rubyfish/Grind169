@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/rubyfish/Grind169/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1165-meeting-scheduler](https://github.com/rubyfish/Grind169/tree/master/1165-meeting-scheduler) |
+| [1184-car-pooling](https://github.com/rubyfish/Grind169/tree/master/1184-car-pooling) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rubyfish/Grind169/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/rubyfish/Grind169/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1165-meeting-scheduler](https://github.com/rubyfish/Grind169/tree/master/1165-meeting-scheduler) |
+| [1184-car-pooling](https://github.com/rubyfish/Grind169/tree/master/1184-car-pooling) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rubyfish/Grind169/tree/master/0238-product-of-array-except-self) |
+| [1184-car-pooling](https://github.com/rubyfish/Grind169/tree/master/1184-car-pooling) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rubyfish/Grind169/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rubyfish/Grind169/tree/master/0054-spiral-matrix) |
+| [1184-car-pooling](https://github.com/rubyfish/Grind169/tree/master/1184-car-pooling) |
 ## Tree
 |  |
 | ------- |
@@ -313,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rubyfish/Grind169/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/rubyfish/Grind169/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
