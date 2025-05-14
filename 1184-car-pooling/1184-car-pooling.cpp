@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool carPooling(vector<vector<int>>& trips, int capacity) {
-        vector<int> count_passengers(1001, 0);
+        map<int, int> count_passengers;
 
         for (auto trip:trips){
             count_passengers[trip[1]] += trip[0];
@@ -9,8 +9,8 @@ public:
         }
 
         int current_passengers = 0;
-        for (int count:count_passengers){
-            current_passengers += count;
+        for (auto it = count_passengers.begin(); it != count_passengers.end(); ++it){
+            current_passengers += it->second;
             if (current_passengers > capacity)
                 return false;
         }
