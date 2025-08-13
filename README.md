@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rubyfish/Grind169/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rubyfish/Grind169/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/rubyfish/Grind169/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rubyfish/Grind169/tree/master/0380-insert-delete-getrandom-o1) |
 | [2998-count-symmetric-integers](https://github.com/rubyfish/Grind169/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/rubyfish/Grind169/tree/master/1184-car-pooling) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/rubyfish/Grind169/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
