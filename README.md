@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rubyfish/Grind169/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/rubyfish/Grind169/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rubyfish/Grind169/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sliding Window
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/rubyfish/Grind169/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1165-meeting-scheduler](https://github.com/rubyfish/Grind169/tree/master/1165-meeting-scheduler) |
 | [1184-car-pooling](https://github.com/rubyfish/Grind169/tree/master/1184-car-pooling) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rubyfish/Grind169/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rubyfish/Grind169/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
@@ -140,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rubyfish/Grind169/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/rubyfish/Grind169/tree/master/0542-01-matrix) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rubyfish/Grind169/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rubyfish/Grind169/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rubyfish/Grind169/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rubyfish/Grind169/tree/master/0435-non-overlapping-intervals) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rubyfish/Grind169/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Prefix Sum
 |  |
 | ------- |
