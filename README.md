@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rubyfish/Grind169/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rubyfish/Grind169/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rubyfish/Grind169/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rubyfish/Grind169/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rubyfish/Grind169/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rubyfish/Grind169/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rubyfish/Grind169/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/rubyfish/Grind169/tree/master/1894-merge-strings-alternately) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rubyfish/Grind169/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/rubyfish/Grind169/tree/master/0326-power-of-three) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rubyfish/Grind169/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
